@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="115.128177%" y2="-24.8475132%" id="linearGradient-1">
+            <stop stop-color="#276ab7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#276ab7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="app追加画面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-7" transform="translate(-155.000000, -35.000000)">
+            <g id="loading_60" transform="translate(137.000000, 17.000000)">
+                <g id="Group-Copy-19" transform="translate(53.500000, 53.500000) rotate(240.000000) translate(-53.500000, -53.500000) translate(20.000000, 20.000000)">
+                    <circle id="Oval" cx="33.5" cy="33.5" r="33.5"></circle>
+                    <path d="M49.9764183,62.6748398 C60.14027,56.9224746 67,46.0123252 67,33.5 C67,14.9984609 52.0015391,2.13162821e-14 33.5,2.13162821e-14 C14.9984609,2.13162821e-14 -4.12114787e-13,14.9984609 -4.12114787e-13,33.5 C-4.12114787e-13,41.8230498 3.03526046,49.4371765 8.05926185,55.2958607" id="Oval-12" stroke="#276ab7" stroke-width="3" transform="translate(33.500000, 31.337420) scale(-1, 1) translate(-33.500000, -31.337420) "></path>
+                    <path d="M16.9740802,67 C22.983618,67 28.6235691,65.4176115 33.5,62.6467682" id="Oval-12" stroke="url(#linearGradient-1)" stroke-width="3" transform="translate(25.237040, 64.823384) scale(-1, 1) translate(-25.237040, -64.823384) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
